@@ -1,0 +1,22 @@
+≥£”√≤È—Ø±Ì£∫
+babycare.attenhistory 
+babycare.chatmessage
+babycare.activity
+babycare.t_class_post 
+babycare.t_class_post_item
+basic.user 
+basic.student
+basic.class
+babycare.studentfamily
+babycare.studentmapfamily
+weixin.useropenidmap 
+
+≤È—Ø”Ôæ‰£∫
+SELECT * FROM babycare.activity ORDER BY ID DESC LIMIT 10;
+SELECT * FROM babycare.activity WHERE Title LIKE '%∫«∫«%';
+
+ip: 
+172.81.204.244£∫3307
+
+’À∫≈£∫luochun
+√‹¬Î£∫luochun123456
