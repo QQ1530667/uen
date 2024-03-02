@@ -1,0 +1,12 @@
+SVN 账号：luoc   密码：wkbb123456
+文档：https://svn.wkbaobao.com/svn/doc
+代码：https://svn.wkbaobao.com/svn/WKWeb2.0
+WIFI：wkbb_dev	密码：WKBB@0919
+局域网：\\192.168.0.66
+bug网站：http://zentao.wkbaobao.com:8000   luoc  wkbb123456
+研发服务器：http://d.wkbaobao.com:88
+管理员：admin 密码：123456
+学校账号：jpswd 密码：jpswd88
+gitlab: https://gitlab.wkbaobao.com/users/sign_in  
+账号：luochun20190123456@qq.com 
+密码:  luochun8836
